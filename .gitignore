@@ -1,0 +1,22 @@
+# Large binary source material — keep locally, not needed by remote agents
+*.pdf
+*.docx
+
+# Reference art / inspiration images — keep locally
+reference/
+reference away/
+
+# Obsidian workspace state (changes on every open)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian plugin data (local sync state)
+.obsidian/plugins/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Aider AI history
+.aider*
